@@ -1,4 +1,4 @@
-package com.zakariahossain.navigationdrawercomponent;
+package com.zakariahossain.lifecycleawarecomponent;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.zakariahossain.navigationdrawercomponent", appContext.getPackageName());
+        assertEquals("com.zakariahossain.lifecycleawarecomponent", appContext.getPackageName());
     }
 }

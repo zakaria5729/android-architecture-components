@@ -1,4 +1,4 @@
-package com.zakariahossain.navigationdrawercomponent;
+package com.zakariahossain.lifecycleawarecomponent;
 
 import org.junit.Test;
 
