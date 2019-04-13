@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/navCurrentWeatherFragment">
+
+    <fragment
+        android:id="@+id/navCurrentWeatherFragment"
+        android:name="com.zakariahossain.navigationcomponent.ui.weather.current.CurrentWeatherFragment"
+        android:label="CurrentWeatherFragment"
+        tools:layout="@layout/current_weather_fragment"/>
+
+    <fragment
+        android:id="@+id/navFutureListWeatherFragment"
+        android:name="com.zakariahossain.navigationcomponent.ui.weather.future.list.FutureWeatherListFragment"
+        android:label="FutureWeatherListFragment"
+        tools:layout="@layout/future_weather_list_fragment"/>
+
+    <fragment
+        android:id="@+id/futureDetailWeatherFragment"
+        android:name="com.zakariahossain.navigationcomponent.ui.weather.future.detail.FutureDetailWeatherFragment"
+        android:label="FutureDetailWeatherFragment"
+        tools:layout="@layout/future_detail_weather_fragment"/>
+
+    <fragment
+        android:id="@+id/navSettingsFragment"
+        android:name="com.zakariahossain.navigationcomponent.ui.settings.SettingsFragment"
+        android:label="SettingsFragment"
+        tools:layout="@layout/settings_fragment"/>
+
+</navigation>

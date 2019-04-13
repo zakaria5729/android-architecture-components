@@ -1,4 +1,4 @@
-package com.zakariahossain.navigationdrawercomponent;
+package com.zakariahossain.navigationcomponent;
 
 import org.junit.Test;
 
