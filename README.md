@@ -1,5 +1,5 @@
 - ### [Navigation Drawer using Architecture Component](https://github.com/zakaria5729/Android-Architecture-Components/tree/master)
-- ### [Botttom Navigation using Architecture Component](https://github.com/zakaria5729/Android-Architecture-Components/tree/bottomNav)
+- ### [Bottom Navigation using Architecture Component](https://github.com/zakaria5729/Android-Architecture-Components/tree/bottomNav)
 - ### [Lifecycle Aware Component](https://github.com/zakaria5729/Android-Architecture-Components/tree/LifecycleAwareComponent)
 
 
