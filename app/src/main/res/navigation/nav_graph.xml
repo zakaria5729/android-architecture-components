@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph.xml"
+    app:startDestination="@id/defaultFragment">
+
+    <fragment
+        android:id="@+id/defaultFragment"
+        android:name="com.zakariahossain.navigationdrawercomponent.DefaultFragment"
+        android:label="fragment_default"
+        tools:layout="@layout/fragment_default" />
+
+    <fragment
+        android:id="@+id/first"
+        android:name="com.zakariahossain.navigationdrawercomponent.FirstFragment"
+        android:label="fragment_first"
+        tools:layout="@layout/fragment_first" >
+    </fragment>
+
+    <fragment
+        android:id="@+id/second"
+        android:name="com.zakariahossain.navigationdrawercomponent.SecondFragment"
+        android:label="fragment_second"
+        tools:layout="@layout/fragment_second" >
+    </fragment>
+
+    <fragment
+        android:id="@+id/third"
+        android:name="com.zakariahossain.navigationdrawercomponent.ThirdFragment"
+        android:label="fragment_third"
+        tools:layout="@layout/fragment_third" >
+    </fragment>
+
+</navigation>
