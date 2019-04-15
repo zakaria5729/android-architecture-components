@@ -1,6 +1,8 @@
+- ### [Lifecycle Aware Component](https://github.com/zakaria5729/Android-Architecture-Components/tree/LifecycleAwareComponent)
 - ### [Navigation Drawer using Architecture Component](https://github.com/zakaria5729/Android-Architecture-Components/tree/master)
 - ### [Bottom Navigation using Architecture Component](https://github.com/zakaria5729/Android-Architecture-Components/tree/bottomNav)
-- ### [Lifecycle Aware Component](https://github.com/zakaria5729/Android-Architecture-Components/tree/LifecycleAwareComponent)
+- ### [Bottom App Bar with Setting Preference](https://github.com/zakaria5729/BottomAppBar-with-SettingsPreferences)
+- ### [MVVM with ROOM](https://github.com/zakaria5729/TODO-App-with-Room-and-MVVM)
 
 
 ## Navigation Drawer using Navigation-Architecture-Component
